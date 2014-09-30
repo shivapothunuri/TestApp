@@ -27,6 +27,7 @@ public class ViewClients extends HttpServlet {
     public ViewClients() {
         super();
         // TODO Auto-generated constructor stub
+        //asdas
     }
 
 	/**
